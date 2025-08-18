@@ -1,0 +1,95 @@
+(
+'Mucispirillum schaedleri ASF457':4,
+'Cloacibacillus porcorum':4,
+'Treponema succinifaciens DSM 2489':4,
+(
+'Helicobacter ailurogastricus':4,
+(
+'Campylobacter ureolyticus RIGS 9880':4,
+'Campylobacter hominis ATCC BAA-381':4
+)Campylobacter:4
+)Campylobacterales:4,
+(
+'Leisingera aquaemixtae':4,
+(
+(
+'Rhodoferax koreense':4,
+'Acidovorax sp. RAC01':4
+)Comamonadaceae:4,
+(
+'Ralstonia pickettii 12D':4,
+'Burkholderia ambifaria AMMD':4,
+'Cupriavidus pauculus':4
+)Burkholderiaceae:4
+)Burkholderiales:4,
+(
+'Moritella viscosa':4,
+'Pseudomonas viridiflava':4
+)Gammaproteobacteria:4
+)Pseudomonadota:4,
+(
+'Anaerococcus prevotii DSM 20548':4,
+'Turicibacter sanguinis':4,
+(
+'Intestinimonas butyriciproducens':4,
+(
+'Blautia hansenii DSM 20583':4,
+'Coprococcus eutactus ATCC 27759':4,
+'[Ruminococcus] gnavus ATCC 29149':4,
+(
+'Dorea longicatena':4,
+'Dorea formicigenerans':4
+)Dorea:4
+)Lachnospiraceae:4
+)Eubacteriales:4,
+(
+(
+'Lactobacillus amylovorus GRL1118':4,
+'Lactobacillus gallinarum':4
+)Lactobacillus:4,
+(
+'Staphylococcus capitis subsp. capitis':4,
+'Staphylococcus caprae':4
+)Staphylococcus:4
+)Bacilli:4
+)Bacillota:4,
+(
+(
+'Eggerthella lenta DSM 2243':4,
+'Collinsella aerofaciens':4
+)Coriobacteriia:4,
+(
+(
+'Bifidobacterium kashiwanohense PV20-2':4,
+'Bifidobacterium thermophilum RBL67':4,
+'Bifidobacterium dentium JCM 1195 = DSM 20436':4,
+'Bifidobacterium animalis subsp. lactis CNCM I-2494':4
+)Bifidobacterium:4,
+(
+'Leucobacter triazinivorans':4,
+(
+'Arthrobacter sp. ZXY-2':4,
+'Kocuria rhizophila DC2201':4,
+'Paenarthrobacter aurescens TC1':4
+)Micrococcaceae:4
+)Micrococcales:4,
+'Streptomyces albidoflavus':4,
+(
+(
+'Corynebacterium kefirresidentii':4,
+'Corynebacterium amycolatum':4
+)Corynebacterium:4,
+'Mycolicibacterium aurum':4
+)Mycobacteriales:4
+)Actinomycetes:4
+)Actinomycetota:4,
+(
+'Porphyromonas asaccharolytica DSM 20707':4,
+'Alistipes finegoldii DSM 17242':4,
+(
+'Bacteroides nordii':4,
+'Bacteroides thetaiotaomicron VPI-5482':4,
+'Bacteroides uniformis':4
+)Bacteroides:4
+)Bacteroidales:4
+)Bacteria:4;

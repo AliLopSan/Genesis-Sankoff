@@ -1,0 +1,181 @@
+,RF_KO,name,definition,pathways
+0,K02257,"['COX10, ctaB, cyoE']",heme o synthase [EC:2.5.1.141],"{'ko00190': 'Oxidative phosphorylation', 'ko01100': 'Metabolic pathways', 'ko00860': 'Porphyrin and chlorophyll metabolism', 'ko04714': 'Thermogenesis', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+1,K02274,"['coxA, ctaD']",cytochrome c oxidase subunit I [EC:1.9.3.1],"{'ko00190': 'Oxidative phosphorylation', 'ko01100': 'Metabolic pathways'}"
+2,K02259,"['COX15, ctaA']",cytochrome c oxidase assembly protein subunit 15,"{'ko01100': 'Metabolic pathways', 'ko04714': 'Thermogenesis', 'ko00190': 'Oxidative phosphorylation', 'ko02020': 'Two-component system', 'ko00860': 'Porphyrin and chlorophyll metabolism', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+3,K02275,"['coxB, ctaC']",cytochrome c oxidase subunit II [EC:1.9.3.1],"{'ko00190': 'Oxidative phosphorylation', 'ko01100': 'Metabolic pathways'}"
+4,K01772,"['hemH, FECH']",protoporphyrin/coproporphyrin ferrochelatase [EC:4.99.1.1 4.99.1.9],"{'ko01100': 'Metabolic pathways', 'ko00860': 'Porphyrin and chlorophyll metabolism', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+5,K00627,"['DLAT, aceF, pdhC']",pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12],"{'ko00020': 'Citrate cycle (TCA cycle)', 'ko01100': 'Metabolic pathways', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00010': 'Glycolysis / Gluconeogenesis', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko00620': 'Pyruvate metabolism', 'ko01130': 'Biosynthesis of antibiotics', 'ko01200': 'Carbon metabolism'}"
+6,K02276,"['coxC, ctaE']",cytochrome c oxidase subunit III [EC:1.9.3.1],"{'ko00190': 'Oxidative phosphorylation', 'ko01100': 'Metabolic pathways'}"
+7,K01669,['phrB'],deoxyribodipyrimidine photo-lyase [EC:4.1.99.3],
+8,K21636,['nrdD'],ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6],"{'ko00230': 'Purine metabolism', 'ko00240': 'Pyrimidine metabolism', 'ko01100': 'Metabolic pathways'}"
+9,K03635,"['MOCS2B, moaE']",molybdopterin synthase catalytic subunit [EC:2.8.1.12],"{'ko01100': 'Metabolic pathways', 'ko00790': 'Folate biosynthesis', 'ko04122': 'Sulfur relay system'}"
+10,K00164,"['OGDH, sucA']",2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2],"{'ko00020': 'Citrate cycle (TCA cycle)', 'ko01120': 'Microbial metabolism in diverse environments', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01100': 'Metabolic pathways', 'ko00310': 'Lysine degradation', 'ko01130': 'Biosynthesis of antibiotics', 'ko00380': 'Tryptophan metabolism', 'ko01200': 'Carbon metabolism'}"
+11,K04068,['nrdG'],anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4],
+12,K01724,"['PCBD, phhB']",4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96],{'ko00790': 'Folate biosynthesis'}
+13,K00162,"['PDHB, pdhB']",pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1],"{'ko00020': 'Citrate cycle (TCA cycle)', 'ko04066': 'HIF-1 signaling pathway', 'ko04922': 'Glucagon signaling pathway', 'ko01100': 'Metabolic pathways', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00010': 'Glycolysis / Gluconeogenesis', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko05230': 'Central carbon metabolism in cancer', 'ko00620': 'Pyruvate metabolism', 'ko01130': 'Biosynthesis of antibiotics', 'ko01200': 'Carbon metabolism'}"
+14,K00161,"['PDHA, pdhA']",pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1],"{'ko00020': 'Citrate cycle (TCA cycle)', 'ko04066': 'HIF-1 signaling pathway', 'ko04922': 'Glucagon signaling pathway', 'ko01100': 'Metabolic pathways', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00010': 'Glycolysis / Gluconeogenesis', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko05230': 'Central carbon metabolism in cancer', 'ko00620': 'Pyruvate metabolism', 'ko01130': 'Biosynthesis of antibiotics', 'ko01200': 'Carbon metabolism'}"
+15,K01011,"['TST, MPST, sseA']",thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2],"{'ko01120': 'Microbial metabolism in diverse environments', 'ko01100': 'Metabolic pathways', 'ko00270': 'Cysteine and methionine metabolism', 'ko00920': 'Sulfur metabolism', 'ko04122': 'Sulfur relay system'}"
+16,K00135,['gabD'],succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20],"{'ko01100': 'Metabolic pathways', 'ko00310': 'Lysine degradation', 'ko00650': 'Butanoate metabolism', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00760': 'Nicotinate and nicotinamide metabolism', 'ko00350': 'Tyrosine metabolism', 'ko00250': 'Alanine, aspartate and glutamate metabolism'}"
+17,K13628,['iscA'],iron-sulfur cluster assembly protein,
+18,K01255,"['CARP, pepA']",leucyl aminopeptidase [EC:3.4.11.1],"{'ko01100': 'Metabolic pathways', 'ko00480': 'Glutathione metabolism'}"
+19,K03636,"['moaD, cysO']",sulfur-carrier protein,{'ko04122': 'Sulfur relay system'}
+20,K06886,['glbN'],hemoglobin,
+21,K08303,['K08303'],putative protease [EC:3.4.-.-],{'ko05120': 'Epithelial cell signaling in Helicobacter pylori infection'}
+22,K02221,['yggT'],YggT family protein,
+23,K07152,['SCO1_2'],protein SCO1/2,
+24,K01589,['purK'],5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18],"{'ko00230': 'Purine metabolism', 'ko01100': 'Metabolic pathways', 'ko01130': 'Biosynthesis of antibiotics', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+25,K17828,['pyrDI'],dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14],"{'ko00240': 'Pyrimidine metabolism', 'ko01100': 'Metabolic pathways'}"
+26,K00573,"['E2.1.1.77, pcm']",protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77],
+27,K03980,"['murJ, mviN']",putative peptidoglycan lipid II flippase,
+28,K01419,"['hslV, clpQ']","ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]",
+29,K03667,['hslU'],ATP-dependent HslUV protease ATP-binding subunit HslU,
+30,K00632,"['fadA, fadI']",acetyl-CoA acyltransferase [EC:2.3.1.16],"{'ko00071': 'Fatty acid degradation', 'ko00280': 'Valine, leucine and isoleucine degradation', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00642': 'Ethylbenzene degradation', 'ko01212': 'Fatty acid metabolism', 'ko00281': 'Geraniol degradation', 'ko01130': 'Biosynthesis of antibiotics', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01100': 'Metabolic pathways', 'ko00362': 'Benzoate degradation', 'ko00592': 'alpha-Linolenic acid metabolism'}"
+31,K01638,"['aceB, glcB']",malate synthase [EC:2.3.3.9],"{'ko00620': 'Pyruvate metabolism', 'ko01100': 'Metabolic pathways', 'ko01120': 'Microbial metabolism in diverse environments', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko00630': 'Glyoxylate and dicarboxylate metabolism', 'ko01200': 'Carbon metabolism'}"
+32,K00262,"['E1.4.1.4, gdhA']",glutamate dehydrogenase (NADP+) [EC:1.4.1.4],"{'ko00910': 'Nitrogen metabolism', 'ko01100': 'Metabolic pathways', 'ko00220': 'Arginine biosynthesis', 'ko00250': 'Alanine, aspartate and glutamate metabolism'}"
+33,K03820,['lnt'],apolipoprotein N-acyltransferase [EC:2.3.1.-],
+34,K01493,['comEB'],dCMP deaminase [EC:3.5.4.12],"{'ko00240': 'Pyrimidine metabolism', 'ko01100': 'Metabolic pathways'}"
+35,K03074,['secF'],preprotein translocase subunit SecF,"{'ko03070': 'Bacterial secretion system', 'ko03060': 'Protein export'}"
+36,K02823,['pyrDII'],dihydroorotate dehydrogenase electron transfer subunit,"{'ko00240': 'Pyrimidine metabolism', 'ko01100': 'Metabolic pathways'}"
+37,K00228,"['CPOX, hemF']",coproporphyrinogen III oxidase [EC:1.3.3.3],"{'ko01100': 'Metabolic pathways', 'ko00860': 'Porphyrin and chlorophyll metabolism', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+38,K07133,['K07133'],uncharacterized protein,
+39,K06980,['ygfZ'],tRNA-modifying protein YgfZ,
+40,K00254,"['DHODH, pyrD']",dihydroorotate dehydrogenase [EC:1.3.5.2],"{'ko00240': 'Pyrimidine metabolism', 'ko01100': 'Metabolic pathways'}"
+41,K03737,"['por, nifJ']",pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-],"{'ko00020': 'Citrate cycle (TCA cycle)', 'ko01100': 'Metabolic pathways', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00650': 'Butanoate metabolism', 'ko00620': 'Pyruvate metabolism', 'ko00010': 'Glycolysis / Gluconeogenesis', 'ko00720': 'Carbon fixation pathways in prokaryotes', 'ko01130': 'Biosynthesis of antibiotics', 'ko01200': 'Carbon metabolism'}"
+42,K03179,['ubiA'],4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39],"{'ko01100': 'Metabolic pathways', 'ko00130': 'Ubiquinone and other terpenoid-quinone biosynthesis', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+43,K01903,['sucC'],succinyl-CoA synthetase beta subunit [EC:6.2.1.5],"{'ko00020': 'Citrate cycle (TCA cycle)', 'ko01120': 'Microbial metabolism in diverse environments', 'ko01130': 'Biosynthesis of antibiotics', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01100': 'Metabolic pathways', 'ko00640': 'Propanoate metabolism', 'ko00720': 'Carbon fixation pathways in prokaryotes', 'ko00660': 'C5-Branched dibasic acid metabolism', 'ko01200': 'Carbon metabolism'}"
+44,K07146,['K07146'],UPF0176 protein,
+45,K22132,['tcdA'],tRNA threonylcarbamoyladenosine dehydratase,
+46,K00332,['nuoC'],NADH-quinone oxidoreductase subunit C [EC:1.6.5.3],"{'ko00190': 'Oxidative phosphorylation', 'ko01100': 'Metabolic pathways'}"
+47,K00681,['ggt'],gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13],"{'ko01100': 'Metabolic pathways', 'ko00460': 'Cyanoamino acid metabolism', 'ko00430': 'Taurine and hypotaurine metabolism', 'ko00480': 'Glutathione metabolism'}"
+48,K15034,['yaeJ'],ribosome-associated protein,
+49,K14393,['actP'],cation/acetate symporter,
+50,K00333,['nuoD'],NADH-quinone oxidoreductase subunit D [EC:1.6.5.3],"{'ko00190': 'Oxidative phosphorylation', 'ko01100': 'Metabolic pathways'}"
+51,K03152,['thiJ'],protein deglycase [EC:3.5.1.124],
+52,K01880,"['GARS, glyS1']",glycyl-tRNA synthetase [EC:6.1.1.14],{'ko00970': 'Aminoacyl-tRNA biosynthesis'}
+53,K08296,['sixA'],phosphohistidine phosphatase [EC:3.1.3.-],
+54,K03072,['secD'],preprotein translocase subunit SecD,"{'ko03070': 'Bacterial secretion system', 'ko03060': 'Protein export'}"
+55,K01902,['sucD'],succinyl-CoA synthetase alpha subunit [EC:6.2.1.5],"{'ko00020': 'Citrate cycle (TCA cycle)', 'ko01120': 'Microbial metabolism in diverse environments', 'ko01130': 'Biosynthesis of antibiotics', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01100': 'Metabolic pathways', 'ko00640': 'Propanoate metabolism', 'ko00720': 'Carbon fixation pathways in prokaryotes', 'ko00660': 'C5-Branched dibasic acid metabolism', 'ko01200': 'Carbon metabolism'}"
+56,K03816,['xpt'],xanthine phosphoribosyltransferase [EC:2.4.2.22],"{'ko00230': 'Purine metabolism', 'ko01100': 'Metabolic pathways', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+57,K01878,['glyQ'],glycyl-tRNA synthetase alpha chain [EC:6.1.1.14],{'ko00970': 'Aminoacyl-tRNA biosynthesis'}
+58,K07137,['K07137'],uncharacterized protein,
+59,K03615,['rnfC'],electron transport complex protein RnfC,
+60,K06999,['K06999'],phospholipase/carboxylesterase,
+61,K06204,['dksA'],DnaK suppressor protein,{'ko02026': 'Biofilm formation - Escherichia coli'}
+62,K03617,['rnfA'],electron transport complex protein RnfA,
+63,K00610,['pyrI'],aspartate carbamoyltransferase regulatory subunit,"{'ko00240': 'Pyrimidine metabolism', 'ko00250': 'Alanine, aspartate and glutamate metabolism', 'ko01100': 'Metabolic pathways'}"
+64,K00242,"['sdhD, frdD']","succinate dehydrogenase / fumarate reductase, membrane anchor subunit","{'ko00020': 'Citrate cycle (TCA cycle)', 'ko00650': 'Butanoate metabolism', 'ko00190': 'Oxidative phosphorylation', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01100': 'Metabolic pathways', 'ko00720': 'Carbon fixation pathways in prokaryotes', 'ko01130': 'Biosynthesis of antibiotics', 'ko01200': 'Carbon metabolism', 'ko01120': 'Microbial metabolism in diverse environments'}"
+65,K00989,['rph'],ribonuclease PH [EC:2.7.7.56],
+66,K01879,['glyS'],glycyl-tRNA synthetase beta chain [EC:6.1.1.14],{'ko00970': 'Aminoacyl-tRNA biosynthesis'}
+67,K01920,['gshB'],glutathione synthase [EC:6.3.2.3],"{'ko01100': 'Metabolic pathways', 'ko00270': 'Cysteine and methionine metabolism', 'ko00480': 'Glutathione metabolism'}"
+68,K00963,"['UGP2, galU, galF']",UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9],"{'ko01100': 'Metabolic pathways', 'ko00520': 'Amino sugar and nucleotide sugar metabolism', 'ko00500': 'Starch and sucrose metabolism', 'ko01130': 'Biosynthesis of antibiotics', 'ko00040': 'Pentose and glucuronate interconversions', 'ko00052': 'Galactose metabolism'}"
+69,K03750,['moeA'],molybdopterin molybdotransferase [EC:2.10.1.1],"{'ko01100': 'Metabolic pathways', 'ko00790': 'Folate biosynthesis'}"
+70,K00252,"['GCDH, gcdH']",glutaryl-CoA dehydrogenase [EC:1.3.8.6],"{'ko01100': 'Metabolic pathways', 'ko00362': 'Benzoate degradation', 'ko00310': 'Lysine degradation', 'ko00071': 'Fatty acid degradation', 'ko01130': 'Biosynthesis of antibiotics', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00380': 'Tryptophan metabolism'}"
+71,K00658,"['DLST, sucB']",2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61],"{'ko01100': 'Metabolic pathways', 'ko00310': 'Lysine degradation', 'ko00020': 'Citrate cycle (TCA cycle)', 'ko01130': 'Biosynthesis of antibiotics', 'ko01120': 'Microbial metabolism in diverse environments', 'ko01200': 'Carbon metabolism', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+72,K00121,"['frmA, ADH5, adhC']",S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1],"{'ko00830': 'Retinol metabolism', 'ko00625': 'Chloroalkane and chloroalkene degradation', 'ko00680': 'Methane metabolism', 'ko00010': 'Glycolysis / Gluconeogenesis', 'ko00980': 'Metabolism of xenobiotics by cytochrome P450', 'ko00350': 'Tyrosine metabolism', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01100': 'Metabolic pathways', 'ko05204': 'Chemical carcinogenesis', 'ko01130': 'Biosynthesis of antibiotics', 'ko00626': 'Naphthalene degradation', 'ko00071': 'Fatty acid degradation', 'ko01220': 'Degradation of aromatic compounds', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00982': 'Drug metabolism - cytochrome P450', 'ko01200': 'Carbon metabolism'}"
+73,K06891,['clpS'],ATP-dependent Clp protease adaptor protein ClpS,
+74,K00970,['pcnB'],poly(A) polymerase [EC:2.7.7.19],{'ko03018': 'RNA degradation'}
+75,K00982,['glnE'],[glutamine synthetase] adenylyltransferase / [glutamine synthetase]-adenylyl-L-tyrosine phosphorylase [EC:2.7.7.42 2.7.7.89],
+76,K05786,['rarD'],chloramphenicol-sensitive protein RarD,
+77,K00362,['nirB'],nitrite reductase (NADH) large subunit [EC:1.7.1.15],"{'ko00910': 'Nitrogen metabolism', 'ko01120': 'Microbial metabolism in diverse environments'}"
+78,K03782,['katG'],catalase-peroxidase [EC:1.11.1.21],"{'ko01100': 'Metabolic pathways', 'ko00360': 'Phenylalanine metabolism', 'ko00940': 'Phenylpropanoid biosynthesis', 'ko00380': 'Tryptophan metabolism', 'ko00983': 'Drug metabolism - other enzymes', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+79,K04759,['feoB'],ferrous iron transport protein B,
+80,K01006,['ppdK'],"pyruvate, orthophosphate dikinase [EC:2.7.9.1]","{'ko00620': 'Pyruvate metabolism', 'ko00720': 'Carbon fixation pathways in prokaryotes', 'ko01100': 'Metabolic pathways', 'ko00710': 'Carbon fixation in photosynthetic organisms', 'ko01200': 'Carbon metabolism', 'ko01120': 'Microbial metabolism in diverse environments'}"
+81,K09791,['K09791'],uncharacterized protein,
+82,K06916,['zapE'],cell division protein ZapE,
+83,K03169,['topB'],DNA topoisomerase III [EC:5.99.1.2],
+84,K00651,['metA'],homoserine O-succinyltransferase [EC:2.3.1.46],"{'ko01100': 'Metabolic pathways', 'ko00270': 'Cysteine and methionine metabolism', 'ko00920': 'Sulfur metabolism', 'ko01230': 'Biosynthesis of amino acids', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+85,K09157,['K09157'],uncharacterized protein,
+86,K07390,"['grxD, GLRX5']",monothiol glutaredoxin,
+87,K01061,['E3.1.1.45'],carboxymethylenebutenolidase [EC:3.1.1.45],"{'ko00623': 'Toluene degradation', 'ko01100': 'Metabolic pathways', 'ko00361': 'Chlorocyclohexane and chlorobenzene degradation', 'ko00364': 'Fluorobenzoate degradation', 'ko01120': 'Microbial metabolism in diverse environments', 'ko01130': 'Biosynthesis of antibiotics', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+88,K03976,"['ybaK, ebsC']",Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase [EC:3.1.1.-],
+89,K00459,"['ncd2, npd']",nitronate monooxygenase [EC:1.13.12.16],{'ko00910': 'Nitrogen metabolism'}
+90,K00390,['cysH'],phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10],"{'ko01120': 'Microbial metabolism in diverse environments', 'ko01100': 'Metabolic pathways', 'ko00920': 'Sulfur metabolism'}"
+91,K01637,"['E4.1.3.1, aceA']",isocitrate lyase [EC:4.1.3.1],"{'ko01120': 'Microbial metabolism in diverse environments', 'ko01100': 'Metabolic pathways', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01200': 'Carbon metabolism', 'ko00630': 'Glyoxylate and dicarboxylate metabolism'}"
+92,K00568,['ubiG'],2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64],"{'ko01100': 'Metabolic pathways', 'ko00130': 'Ubiquinone and other terpenoid-quinone biosynthesis', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+93,K03644,['lipA'],lipoyl synthase [EC:2.8.1.8],"{'ko00785': 'Lipoic acid metabolism', 'ko01100': 'Metabolic pathways'}"
+94,K09001,['anmK'],anhydro-N-acetylmuramic acid kinase [EC:2.7.1.170],
+95,K07166,['K07166'],ACT domain-containing protein,
+96,K00990,['glnD'],[protein-PII] uridylyltransferase [EC:2.7.7.59],{'ko02020': 'Two-component system'}
+97,K00163,['aceE'],pyruvate dehydrogenase E1 component [EC:1.2.4.1],"{'ko00020': 'Citrate cycle (TCA cycle)', 'ko01100': 'Metabolic pathways', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00010': 'Glycolysis / Gluconeogenesis', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko00620': 'Pyruvate metabolism', 'ko01130': 'Biosynthesis of antibiotics', 'ko01200': 'Carbon metabolism'}"
+98,K06929,['K06929'],uncharacterized protein,
+99,K00457,"['HPD, hppD']",4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27],"{'ko01100': 'Metabolic pathways', 'ko00350': 'Tyrosine metabolism', 'ko00130': 'Ubiquinone and other terpenoid-quinone biosynthesis', 'ko00360': 'Phenylalanine metabolism'}"
+100,K06193,['phnA'],protein PhnA,{'ko01120': 'Microbial metabolism in diverse environments'}
+101,K02116,['atpI'],ATP synthase protein I,
+102,K01029,"['E2.8.3.5B, scoB']",3-oxoacid CoA-transferase subunit B [EC:2.8.3.5],"{'ko00650': 'Butanoate metabolism', 'ko00072': 'Synthesis and degradation of ketone bodies', 'ko00280': 'Valine, leucine and isoleucine degradation'}"
+103,K14162,['dnaE2'],error-prone DNA polymerase [EC:2.7.7.7],
+104,K03752,['mobA'],molybdenum cofactor guanylyltransferase [EC:2.7.7.77],"{'ko01100': 'Metabolic pathways', 'ko00790': 'Folate biosynthesis'}"
+105,K01595,['ppc'],phosphoenolpyruvate carboxylase [EC:4.1.1.31],"{'ko00620': 'Pyruvate metabolism', 'ko00680': 'Methane metabolism', 'ko00720': 'Carbon fixation pathways in prokaryotes', 'ko01100': 'Metabolic pathways', 'ko00710': 'Carbon fixation in photosynthetic organisms', 'ko01200': 'Carbon metabolism', 'ko01120': 'Microbial metabolism in diverse environments'}"
+106,K08973,['K08973'],putative membrane protein,
+107,K03117,['tatB'],sec-independent protein translocase protein TatB,"{'ko03070': 'Bacterial secretion system', 'ko03060': 'Protein export'}"
+108,K07139,['K07139'],uncharacterized protein,
+109,K00363,['nirD'],nitrite reductase (NADH) small subunit [EC:1.7.1.15],"{'ko00910': 'Nitrogen metabolism', 'ko01120': 'Microbial metabolism in diverse environments'}"
+110,K09773,['ppsR'],"[pyruvate, water dikinase]-phosphate phosphotransferase / [pyruvate, water dikinase] kinase [EC:2.7.4.28 2.7.11.33]",
+111,K04041,['fbp3'],"fructose-1,6-bisphosphatase III [EC:3.1.3.11]","{'ko00051': 'Fructose and mannose metabolism', 'ko00680': 'Methane metabolism', 'ko00010': 'Glycolysis / Gluconeogenesis', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00030': 'Pentose phosphate pathway', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01100': 'Metabolic pathways', 'ko01130': 'Biosynthesis of antibiotics', 'ko00710': 'Carbon fixation in photosynthetic organisms', 'ko01200': 'Carbon metabolism'}"
+112,K01640,"['E4.1.3.4, HMGCL, hmgL']",hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4],"{'ko01100': 'Metabolic pathways', 'ko00072': 'Synthesis and degradation of ketone bodies', 'ko04146': 'Peroxisome', 'ko00280': 'Valine, leucine and isoleucine degradation', 'ko00650': 'Butanoate metabolism', 'ko00281': 'Geraniol degradation'}"
+113,K00940,"['ndk, NME']",nucleoside-diphosphate kinase [EC:2.7.4.6],"{'ko00230': 'Purine metabolism', 'ko00983': 'Drug metabolism - other enzymes', 'ko01100': 'Metabolic pathways', 'ko00240': 'Pyrimidine metabolism', 'ko04016': 'MAPK signaling pathway - plant', 'ko01130': 'Biosynthesis of antibiotics', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+114,K03613,['rnfE'],electron transport complex protein RnfE,
+115,K02303,['cobA'],uroporphyrin-III C-methyltransferase [EC:2.1.1.107],"{'ko01120': 'Microbial metabolism in diverse environments', 'ko01100': 'Metabolic pathways', 'ko00860': 'Porphyrin and chlorophyll metabolism', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+116,K00241,"['sdhC, frdC']","succinate dehydrogenase / fumarate reductase, cytochrome b subunit","{'ko00020': 'Citrate cycle (TCA cycle)', 'ko00650': 'Butanoate metabolism', 'ko00190': 'Oxidative phosphorylation', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01100': 'Metabolic pathways', 'ko00720': 'Carbon fixation pathways in prokaryotes', 'ko01130': 'Biosynthesis of antibiotics', 'ko01200': 'Carbon metabolism', 'ko01120': 'Microbial metabolism in diverse environments'}"
+117,K02415,['fliL'],flagellar FliL protein,
+118,K04755,['fdx'],"ferredoxin, 2Fe-2S",
+119,K00275,"['pdxH, PNPO']",pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5],"{'ko00750': 'Vitamin B6 metabolism', 'ko01100': 'Metabolic pathways', 'ko01120': 'Microbial metabolism in diverse environments'}"
+120,K07516,['fadN'],3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35],"{'ko01100': 'Metabolic pathways', 'ko00362': 'Benzoate degradation', 'ko00071': 'Fatty acid degradation', 'ko00650': 'Butanoate metabolism', 'ko01120': 'Microbial metabolism in diverse environments', 'ko01212': 'Fatty acid metabolism', 'ko01200': 'Carbon metabolism'}"
+121,K00019,"['E1.1.1.30, bdh']",3-hydroxybutyrate dehydrogenase [EC:1.1.1.30],"{'ko01100': 'Metabolic pathways', 'ko00072': 'Synthesis and degradation of ketone bodies', 'ko00650': 'Butanoate metabolism'}"
+122,K09767,['yajQ'],cyclic-di-GMP-binding protein,
+123,K02535,['lpxC'],UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108],"{'ko01100': 'Metabolic pathways', 'ko00540': 'Lipopolysaccharide biosynthesis'}"
+124,K03801,['lipB'],lipoyl(octanoyl) transferase [EC:2.3.1.181],"{'ko00785': 'Lipoic acid metabolism', 'ko01100': 'Metabolic pathways'}"
+125,K00705,['malQ'],4-alpha-glucanotransferase [EC:2.4.1.25],"{'ko01100': 'Metabolic pathways', 'ko00500': 'Starch and sucrose metabolism'}"
+126,K03089,['rpoH'],RNA polymerase sigma-32 factor,
+127,K11473,['glcF'],glycolate oxidase iron-sulfur subunit,"{'ko01120': 'Microbial metabolism in diverse environments', 'ko01100': 'Metabolic pathways', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko00630': 'Glyoxylate and dicarboxylate metabolism', 'ko01130': 'Biosynthesis of antibiotics'}"
+128,K09780,['K09780'],uncharacterized protein,
+129,K02427,"['rlmE, rrmJ, ftsJ']",23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166],
+130,K02446,['glpX'],"fructose-1,6-bisphosphatase II [EC:3.1.3.11]","{'ko00051': 'Fructose and mannose metabolism', 'ko00680': 'Methane metabolism', 'ko00010': 'Glycolysis / Gluconeogenesis', 'ko01120': 'Microbial metabolism in diverse environments', 'ko00030': 'Pentose phosphate pathway', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01100': 'Metabolic pathways', 'ko01130': 'Biosynthesis of antibiotics', 'ko00710': 'Carbon fixation in photosynthetic organisms', 'ko01200': 'Carbon metabolism'}"
+131,K04764,"['ihfA, himA']",integration host factor subunit alpha,
+132,K05788,"['ihfB, himD']",integration host factor subunit beta,
+133,K06871,['K06871'],uncharacterized protein,
+134,K03666,['hfq'],host factor-I protein,"{'ko02024': 'Quorum sensing', 'ko03018': 'RNA degradation', 'ko05111': 'Biofilm formation - Vibrio cholerae'}"
+135,K02394,['flgI'],flagellar P-ring protein precursor FlgI,{'ko02040': 'Flagellar assembly'}
+136,K03340,['dapdh'],diaminopimelate dehydrogenase [EC:1.4.1.16],"{'ko00300': 'Lysine biosynthesis', 'ko01100': 'Metabolic pathways', 'ko01230': 'Biosynthesis of amino acids', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+137,K00641,['metX'],homoserine O-acetyltransferase [EC:2.3.1.31],"{'ko01100': 'Metabolic pathways', 'ko00270': 'Cysteine and methionine metabolism', 'ko01130': 'Biosynthesis of antibiotics'}"
+138,K03593,"['mrp, NUBPL']",ATP-binding protein involved in chromosome partitioning,
+139,K00656,"['E2.3.1.54, pflD']",formate C-acetyltransferase [EC:2.3.1.54],"{'ko01120': 'Microbial metabolism in diverse environments', 'ko00620': 'Pyruvate metabolism', 'ko00650': 'Butanoate metabolism', 'ko00640': 'Propanoate metabolism', 'ko01100': 'Metabolic pathways'}"
+140,K00381,['cysI'],sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2],"{'ko01120': 'Microbial metabolism in diverse environments', 'ko01100': 'Metabolic pathways', 'ko00920': 'Sulfur metabolism'}"
+141,K00048,['fucO'],lactaldehyde reductase [EC:1.1.1.77],"{'ko01120': 'Microbial metabolism in diverse environments', 'ko00630': 'Glyoxylate and dicarboxylate metabolism', 'ko00640': 'Propanoate metabolism'}"
+142,K01692,"['paaF, echA']",enoyl-CoA hydratase [EC:4.2.1.17],"{'ko00650': 'Butanoate metabolism', 'ko01120': 'Microbial metabolism in diverse environments', 'ko01212': 'Fatty acid metabolism', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko01100': 'Metabolic pathways', 'ko00362': 'Benzoate degradation', 'ko00903': 'Limonene and pinene degradation', 'ko00360': 'Phenylalanine metabolism', 'ko01130': 'Biosynthesis of antibiotics', 'ko00071': 'Fatty acid degradation', 'ko00280': 'Valine, leucine and isoleucine degradation', 'ko00627': 'Aminobenzoate degradation', 'ko00410': 'beta-Alanine metabolism', 'ko00281': 'Geraniol degradation', 'ko00930': 'Caprolactam degradation', 'ko00310': 'Lysine degradation', 'ko00640': 'Propanoate metabolism', 'ko00380': 'Tryptophan metabolism'}"
+143,K03562,['tolQ'],biopolymer transport protein TolQ,{'ko01120': 'Microbial metabolism in diverse environments'}
+144,K03652,['MPG'],DNA-3-methyladenine glycosylase [EC:3.2.2.21],{'ko03410': 'Base excision repair'}
+145,K03560,['tolR'],biopolymer transport protein TolR,
+146,K07399,"['resB, ccs1']",cytochrome c biogenesis protein,
+147,K03641,['tolB'],TolB protein,
+148,K00799,"['GST, gst']",glutathione S-transferase [EC:2.5.1.18],"{'ko05200': 'Pathways in cancer', 'ko00980': 'Metabolism of xenobiotics by cytochrome P450', 'ko00983': 'Drug metabolism - other enzymes', 'ko05225': 'Hepatocellular carcinoma', 'ko00480': 'Glutathione metabolism', 'ko01524': 'Platinum drug resistance', 'ko00982': 'Drug metabolism - cytochrome P450', 'ko05204': 'Chemical carcinogenesis', 'ko05418': 'Fluid shear stress and atherosclerosis'}"
+149,K01679,"['E4.2.1.2B, fumC']","fumarate hydratase, class II [EC:4.2.1.2]","{'ko00020': 'Citrate cycle (TCA cycle)', 'ko01100': 'Metabolic pathways', 'ko01120': 'Microbial metabolism in diverse environments', 'ko05200': 'Pathways in cancer', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko00620': 'Pyruvate metabolism', 'ko00720': 'Carbon fixation pathways in prokaryotes', 'ko01130': 'Biosynthesis of antibiotics', 'ko05211': 'Renal cell carcinoma', 'ko01200': 'Carbon metabolism'}"
+150,K03324,['yjbB'],phosphate:Na+ symporter,
+151,K07456,['mutS2'],DNA mismatch repair protein MutS2,{'ko03430': 'Mismatch repair'}
+152,K01556,"['KYNU, kynU']",kynureninase [EC:3.7.1.3],"{'ko00380': 'Tryptophan metabolism', 'ko01100': 'Metabolic pathways'}"
+153,K03183,['ubiE'],"demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]","{'ko01100': 'Metabolic pathways', 'ko00130': 'Ubiquinone and other terpenoid-quinone biosynthesis', 'ko01110': 'Biosynthesis of secondary metabolites'}"
+154,K01938,['fhs'],formate--tetrahydrofolate ligase [EC:6.3.4.3],"{'ko01120': 'Microbial metabolism in diverse environments', 'ko01100': 'Metabolic pathways', 'ko00670': 'One carbon pool by folate', 'ko00720': 'Carbon fixation pathways in prokaryotes', 'ko01200': 'Carbon metabolism'}"
+155,K16363,['lpxC-fabZ'],UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:3.5.1.108 4.2.1.59],"{'ko00061': 'Fatty acid biosynthesis', 'ko00540': 'Lipopolysaccharide biosynthesis', 'ko01212': 'Fatty acid metabolism', 'ko01100': 'Metabolic pathways'}"
+156,K03316,['TC.CPA1'],"monovalent cation:H+ antiporter, CPA1 family",
+157,K03308,['TC.NSS'],"neurotransmitter:Na+ symporter, NSS family",
+158,K08300,['rne'],ribonuclease E [EC:3.1.26.12],{'ko03018': 'RNA degradation'}
+159,K05520,['pfpI'],protease I [EC:3.5.1.124],
+160,K03116,['tatA'],sec-independent protein translocase protein TatA,"{'ko03070': 'Bacterial secretion system', 'ko03060': 'Protein export'}"
+161,K18707,['mtaB'],threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5],
+162,K00850,"['pfkA, PFK']",6-phosphofructokinase 1 [EC:2.7.1.11],"{'ko00051': 'Fructose and mannose metabolism', 'ko00680': 'Methane metabolism', 'ko01230': 'Biosynthesis of amino acids', 'ko00010': 'Glycolysis / Gluconeogenesis', 'ko01120': 'Microbial metabolism in diverse environments', 'ko01200': 'Carbon metabolism', 'ko00030': 'Pentose phosphate pathway', 'ko01110': 'Biosynthesis of secondary metabolites', 'ko05230': 'Central carbon metabolism in cancer', 'ko01100': 'Metabolic pathways', 'ko03018': 'RNA degradation', 'ko01130': 'Biosynthesis of antibiotics', 'ko04152': 'AMPK signaling pathway', 'ko00052': 'Galactose metabolism'}"
+163,K04069,"['pflA, pflC, pflE']",pyruvate formate lyase activating enzyme [EC:1.97.1.4],
+164,K08972,['K08972'],putative membrane protein,
+165,K08311,['nudH'],putative (di)nucleoside polyphosphate hydrolase [EC:3.6.1.-],{'ko03018': 'RNA degradation'}
+166,K00684,['aat'],leucyl/phenylalanyl-tRNA---protein transferase [EC:2.3.2.6],
+167,K00943,"['tmk, DTYMK']",dTMP kinase [EC:2.7.4.9],"{'ko00240': 'Pyrimidine metabolism', 'ko01100': 'Metabolic pathways'}"
+168,K10764,['metZ'],O-succinylhomoserine sulfhydrylase [EC:2.5.1.-],"{'ko01100': 'Metabolic pathways', 'ko00270': 'Cysteine and methionine metabolism', 'ko00920': 'Sulfur metabolism'}"
+169,K06195,['apaG'],ApaG protein,
+170,K00140,"['mmsA, iolA, ALDH6A1']",malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27],"{'ko00562': 'Inositol phosphate metabolism', 'ko01100': 'Metabolic pathways', 'ko00640': 'Propanoate metabolism', 'ko00280': 'Valine, leucine and isoleucine degradation', 'ko00410': 'beta-Alanine metabolism', 'ko01200': 'Carbon metabolism'}"
+171,K07113,['fxsA'],UPF0716 protein FxsA,
+172,K00020,"['mmsB, HIBADH']",3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31],"{'ko01100': 'Metabolic pathways', 'ko00280': 'Valine, leucine and isoleucine degradation'}"
+173,K02825,['pyrR'],pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9],"{'ko00240': 'Pyrimidine metabolism', 'ko01100': 'Metabolic pathways'}"
+174,K10804,['tesA'],acyl-CoA thioesterase I [EC:3.1.2.- 3.1.1.5],{'ko01040': 'Biosynthesis of unsaturated fatty acids'}
+175,K00208,['fabI'],enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10],"{'ko01100': 'Metabolic pathways', 'ko00333': 'Prodigiosin biosynthesis', 'ko00780': 'Biotin metabolism', 'ko01130': 'Biosynthesis of antibiotics', 'ko00061': 'Fatty acid biosynthesis', 'ko01212': 'Fatty acid metabolism'}"
+176,K01572,['oadB'],"oxaloacetate decarboxylase, beta subunit [EC:4.1.1.3]","{'ko00620': 'Pyruvate metabolism', 'ko01100': 'Metabolic pathways'}"
+177,K07723,['ndoAI'],CopG family transcriptional regulator / antitoxin EndoAI,
+178,K03118,['tatC'],sec-independent protein translocase protein TatC,"{'ko03070': 'Bacterial secretion system', 'ko03060': 'Protein export'}"
+179,K03579,['hrpB'],ATP-dependent helicase HrpB [EC:3.6.4.13],

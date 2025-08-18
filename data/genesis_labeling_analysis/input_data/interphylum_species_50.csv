@@ -1,0 +1,46 @@
+ID,ncbiid,species,kegg_id,phylum,name_on_ncbi_tree
+74426.4,74426,Collinsella aerofaciens,T05143,Actinobacteria,Collinsella aerofaciens
+679935.3,679935,Alistipes finegoldii,T02133,Bacteroidetes,Alistipes finegoldii DSM 17242
+88431.3,88431,Dorea longicatena,T08069,Firmicutes,Dorea longicatena'
+GCA_003469045.1,39486,Dorea formicigenerans,T08666,Firmicutes,Dorea formicigenerans
+226186.12,226186,Bacteroides thetaiotaomicron,T00122,Bacteroidetes,Bacteroides thetaiotaomicron VPI-5482'
+479437.5,479437,Eggerthella lenta,T00984,Actinobacteria,Eggerthella lenta DSM 2243
+GCF_001049355.1,1791,Mycolicibacterium aurum,T06794,Actinobacteria,Mycolicibacterium aurum
+869209.3,869209,Treponema succinifaciens,T01461,Spirochaetes,Treponema succinifaciens DSM 2489
+1150423.3,1150423,Bifidobacterium dentium,T04222,Actinobacteria,Bifidobacterium dentium JCM 1195 = DSM 20436
+1042403.4,1042403,Bifidobacterium animalis,T01842,Actinobacteria,Bifidobacterium animalis subsp. lactis CNCM I-2494
+1806905.3,1806905,Arthrobacter sp. ZXY-2,T05201,Actinobacteria,Arthrobacter sp. ZXY-2
+GCF_001314245.2,52242,Lactobacillus gallinarum,T04115,Firmicutes,Lactobacillus gallinarum
+GCF_001975925.1,43765,Corynebacterium amycolatum,T07354,Actinobacteria,Corynebacterium amycolatum
+GCF_002154655.1,1979527,Corynebacterium kefirresidentii,T07267,Actinobacteria,Corynebacterium kefirresidentii
+1254439.12,1254439,Bifidobacterium thermophilum,T02505,Actinobacteria,Bifidobacterium thermophilum RBL67
+GCF_000014925.1,290340,Paenarthrobacter aurescens,T00447,Actinobacteria,Paenarthrobacter aurescens TC1
+GCF_900157005.1,1379858,Mucispirillum schaedleri,T08201,Deferribacteres,Mucispirillum schaedleri ASF457
+1297617.4,1297617,Intestinimonas butyriciproducens,T04182,Firmicutes,Intestinimonas butyriciproducens
+154288.4,154288,Turicibacter sanguinis,T06584,Firmicutes,Turicibacter sanguinis
+360107.7,360107,Campylobacter hominis,T00577,Proteobacteria,Campylobacter hominis ATCC BAA-381
+GCF_900171555.1,1886,Streptomyces albidoflavus,T02545,Actinobacteria,Streptomyces albidoflavus
+1032069.3,1032069,Campylobacter ureolyticus,T04021,Proteobacteria,Campylobacter ureolyticus RIGS 9880
+GCF_004208635.1,1784719,Leucobacter triazinivorans,T05843,Actinobacteria,Leucobacter triazinivorans
+GCA_003467365.1,291645,Bacteroides nordii,T07941,Bacteroidetes,Bacteroides nordii
+GCF_001701045.1,1197717,Cloacibacillus porcorum,T04453,Synergistetes,Cloacibacillus porcorum
+411470.6,411470,[Ruminococcus] gnavus,T06719,Firmicutes,[Ruminococcus] gnavus ATCC 29149
+378753.5,378753,Kocuria rhizophila,T00701,Actinobacteria,Kocuria rhizophila DC2201
+879243.3,879243,Porphyromonas asaccharolytica,T01485,Bacteroidetes,Porphyromonas asaccharolytica DSM 20707
+GCF_001282945.1,1578720,Helicobacter ailurogastricus,T08780,Proteobacteria,Helicobacter ailurogastricus
+GCF_001458395.1,1396826,Leisingera aquaemixtae,T06085,Proteobacteria,Leisingera aquaemixtae
+GCF_900120035.1,80854,Moritella viscosa,T03770,Proteobacteria,Moritella viscosa
+GCF_000154425.1,411474,Coprococcus eutactus,T07943,Firmicutes,Coprococcus eutactus ATCC 27759
+GCF_900580675.1,33069,Pseudomonas viridiflava,T06554,Proteobacteria,Pseudomonas viridiflava
+695562.4,695562,Lactobacillus amylovorus,T01954,Firmicutes,Lactobacillus amylovorus GRL1118
+GCF_003854935.1,82633,Cupriavidus pauculus,T05738,Proteobacteria,Cupriavidus pauculus
+GCF_000023425.1,428406,Ralstonia pickettii,T00925,Proteobacteria,Ralstonia pickettii 12D
+GCF_000203915.1,339670,Burkholderia ambifaria,T00398,Proteobacteria,Burkholderia ambifaria AMMD
+GCF_001714725.1,1842533,Acidovorax sp. RAC01,T04481,Proteobacteria,Acidovorax sp. RAC01
+GCF_001955695.1,1842727,Rhodoferax koreense,T04721,Proteobacteria,Rhodoferax koreense
+GCF_002222595.2,537007,Blautia hansenii,T05095,Firmicutes,Blautia hansenii DSM 20583
+GCF_002902725.1,29380,Staphylococcus caprae,T06252,Firmicutes,Staphylococcus caprae
+GCF_001028645.1,72758,Staphylococcus capitis,T03970,Firmicutes,Staphylococcus capitis subsp. capitis
+GCF_000800455.1,1447716,Bifidobacterium kashiwanohense,T03496,Actinobacteria,Bifidobacterium kashiwanohense PV20-2
+820.23,820,Bacteroides uniformis,T06523,Bacteroidetes,Bacteroides uniformis
+525919.6,525919,Anaerococcus prevotii,T00964,Firmicutes,Anaerococcus prevotii DSM 20548
