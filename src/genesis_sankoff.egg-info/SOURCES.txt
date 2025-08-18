@@ -1,0 +1,5 @@
+setup.py
+src/genesis_sankoff.egg-info/PKG-INFO
+src/genesis_sankoff.egg-info/SOURCES.txt
+src/genesis_sankoff.egg-info/dependency_links.txt
+src/genesis_sankoff.egg-info/top_level.txt

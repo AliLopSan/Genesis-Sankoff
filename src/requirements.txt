@@ -1,0 +1,9 @@
+python>=3.9
+asymmetree
+numpy
+pandas
+alive-progress
+requests
+seaborn
+mne-connectivity
+notebook
