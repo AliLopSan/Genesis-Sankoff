@@ -1,0 +1,16 @@
+a,b,weight
+Actinomycetota,Pseudomonadota,8
+Actinomycetota,Staphylococcus,6
+Pseudomonadota,Staphylococcus,10
+Actinomycetes,Pseudomonadota,24
+Bacillota,Micrococcales,2
+Bacillota,Pseudomonadota,4
+Micrococcales,Pseudomonadota,3
+Pseudomonadota,T02545,1
+Pseudomonadota,T08201,2
+Pseudomonadota,T04182,1
+Bacteroidales,Pseudomonadota,3
+Bacteroidales,T04021,1
+Pseudomonadota,T04021,1
+Campylobacterales,Pseudomonadota,1
+Campylobacter,Pseudomonadota,1
